@@ -40,8 +40,8 @@ which contains the source data with the same structure as given by the UCI zipfi
 ## resulting Data set
 When running run_analysis.R, two data sets are produced and stored in files : 
 
-*<li> <b>TidyData.txt</b> contains the tidy detailed data set </li>  
-*<li> <b>TidyDataAgg.txt</b> contains the agreggated averaged data by subject and activity </li>   
+*<li><b>TidyData.txt</b> contains the tidy detailed data set </li>  
+*<li><b>TidyDataAgg.txt</b> contains the agreggated averaged data by subject and activity </li>   
 
 The description of variables and dataset are in the CodeBook stored in this repo
 
