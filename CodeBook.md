@@ -57,7 +57,7 @@ It contains 89 columns with
 	* All original features are given in the feature.txt file and explanations in the the feature_info.txt 
 For more detail, cf. data source site: <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">
 
-### TidyDataAgg.txt
+## TidyDataAgg.txt
 ### Data Set information
 the TidyDataAgg is obtained by agregation of the previous tidy data set by subjectCode and activityCode.
 It contains 180 rows corresponding to the occurences of different subject and activities

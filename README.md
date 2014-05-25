@@ -25,11 +25,11 @@ The same logic applies to the train files with 7352 rows.
 ## The run_analysis.R programm 
 The run_analysis.R script does the following:
 <ol>
-<li><b> Merges the training and the test sets to create one data set<:/b>:    </li>
-<li><b> Extracts only the measurements on the mean and standard deviation for each measurement. <:/b>:    </li>
-<li><b> Uses descriptive activity names to name the activities in the data set<:/b>:    </li>
-<li><b> Appropriately labels the data set with descriptive activity names. <:/b>:    </li>
-<li><b> Creates a second, independent tidy data set with the average of each variable for each activity and each subject. <:/b>:    </li>
+<li> Merges the training and the test sets to create one data set    </li>
+<li> Extracts only the measurements on the mean and standard deviation for each measurement.   </li>
+<li> Uses descriptive activity names to name the activities in the data set   </li>
+<li> Appropriately labels the data set with descriptive activity names.     </li>
+<li> Creates a second, independent tidy data set with the average of each variable for each activity and each subject.    </li>
 </ol>
 
 
@@ -39,8 +39,8 @@ which contains the source data with the same structure as given by the UCI zipfi
 
 ## resulting Data set
 When running run_analysis.R, two data sets are produced and stored in files 
-*<b>TidyData.txt</b> contains the tidy detailed data set
-*<b>TidyDataAgg.txt</b> contains the agreggated averaged data by subject and activity
+*<li> <b>TidyData.txt</b> contains the tidy detailed data set </li>
+*<li> <b>TidyDataAgg.txt</b> contains the agreggated averaged data by subject and activity </li>
 
 The description of variables and dataset are in the CodeBook stored in this repo
 
